@@ -13,7 +13,7 @@ Daejeon, South Korea.
 
 I received my B.Eng. degree in Automation from
 Harbin Institute of Technology, Shenzhen, China,
-in 2026.
+in 2025.
 
 My research interests lie in aerial robotics,
 nonlinear control, and cooperative aerial
