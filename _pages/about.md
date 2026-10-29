@@ -36,7 +36,7 @@ of UAV systems carrying suspended payloads.
 M.S. Student, 2026 - Present
 
 **Harbin Institute of Technology, Shenzhen**
-China
+, China
 
 B.Eng. in Automation, 2021-2025
 
